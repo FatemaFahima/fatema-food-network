@@ -16,11 +16,11 @@ h1{
     width: 50%;
     padding-left: 5%;
 }
-.para-pad{
-    padding-bottom: 20px;
-}
 .equal-half img{
     width: 90%;
+}
+.para-pad{
+    padding-bottom: 20px;
 }
 .order-button{
     text-decoration: none;
@@ -36,7 +36,7 @@ h1{
     background-repeat: no-repeat;
     background-position: center;
 }
-.intro{
+#intro{
     text-align: center;
     padding-left: 100px;
     padding-right: 100px;
@@ -70,7 +70,15 @@ h1{
     padding-top: 5px;
     padding-bottom: 30px;
 }
+#popular-part{
+    background-color: peachpuff;
+    text-align: center;
+    margin-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 .footer-part{
+    text-align: center;
     background-color:orange;
     padding-top: 20px;
     padding-bottom: 35px;
